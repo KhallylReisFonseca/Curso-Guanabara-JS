@@ -1,7 +1,7 @@
-1 - Qual a diferença entre um cliente e um servidor para Internet?
+1 -> Qual a diferença entre um cliente e um servidor para Internet?
 Resposta: A diferença é a seguinte; cliente é o lado do client, ou seja, quem está na frente da tela, seja ela de um computador ou um smartphone ou um tablet, já o servidor é onde está armazenado as informações de uma pagina da Internet, é quem fornece tudo que é necessario para carregar uma pagina da Internet.
 
-2 - Para que serve HTML, CSS e JavaScript?
+2 -> Para que serve HTML, CSS e JavaScript?
 Resposta: HTML é uma forma de construir o esqueleto de uma pagina da Web, manipular e marcar textos, já o CSS é responsavel por adicionar estilo a esta pagina, deixa a pagina mais bonita, colorida; já o JavaScript é responsavel por adicionar interações e dinamismo para esta pagina, ele da musculos ao HTML e CSS.
 
 3 -> Exemplo de empresas que usam JavaScript.

@@ -1,0 +1,107 @@
+1 -> Tipos de variaveis do JS.
+A - const = constante, não muda nunca.
+B - let = variavel, pode ser alterada a qualquer momento.
+C - var = variavel, pode ser alterada a qualquer momento.
+
+2 -> Como declarar uma variavel?
+Resposta: Primeiro se declara o tipo da variavel, depois coloca o nome dela em camelCase, chamar o valor = que significa declaração e por final coloca o valor dela apos o = 
+Exemplos:
+' const nomeConstante = coloque-aqui-o-valor '
+' let nomeVariavel = coloque-aqui-o-valor '
+' var nomeVariavel = coloque-aqui-o-valor '
+
+3 -> Identificadores
+A - Podem começar com leta, $ ou _ .
+B - Não podem começar com números.
+C - É possivel usar letras ou números.
+D - É possivel usar acentos e símbolos.
+E - Não podem conter espaços.
+F - Não podem ser palavras reservadas. (function, let, var, for, if, else, elseif... etc)
+G - Os identificadores são CASE SENSITIVE!
+I - Usar valores que fazem sentido. 
+
+4 -> Como reatribuir valor a uma variavel?
+Resposta: Chama o nome da variavel e usa o sinal de = apos o nome em seguida o novo valor a ser atribuido.
+Exemplo: nomeVariavel = novoValor .
+Obs: CONST não se pode atribuir novo valor as CONST.
+
+5 -> Tipos primitivos primordiais.
+A - strings -> Representados por valores entre aspas. Ex: ' valor '
+B - numbers -> Representados por números, não precisa estar entre aspas. Ex: ' 1 10 -10 -1.2 1.554 '  
+C - boolean -> Representador pelos valores falso (false) ou true (verdadeiro), não precisa estar entre aspas. Ex:' true ' ou  ' false '  
+D - null -> Representado por um valor nulo, não precisa estar entre aspas. Ex: ' null '
+E - undefined -> Representado por um valor indefinido. não precisa estar entre aspas. Ex: ' undefined '
+F - object -> ' array '.
+G - function 
+
+6 -> Como descobrir o tipo de uma variavel? 
+Resposta: Usar o typeof.
+Exemplo: ' typeof nome '.
+
+7 -> Como fazer concatenação?
+Resposta: Usar o sinal de + .
+
+8 -> Como converter string para number?
+
+Usar o ' Number.parseInt(valor) ' para converter para número inteiro, ou;
+Usar o ' Number.parseFloat(valor) 'para converter para número real, ou;
+Usar simplesmente ' Number(valor) ', assim o JavaScript converte independente do que seja.
+
+9 -> Como converter number para string?
+Usar o ' String(valor) ' para converter direto para number.
+Usar o ' valor.toString() ' .
+
+10 -> Forma mais facil de fazer concatenação de strings. -> USAR O PLACEHOLDER `${}` . -> NÃO ESQUECER DE COLOCAR ENTRE ` ` .
+usar ` ${valor} + ${valor} + ${valor} `
+
+11 -> Formas de tratar strings
+
+valor.toUpperCase() -> Converte toda a string para 'MAIÚSCULAS'.
+valor.toLowerCase() -> Converte toda a string para 'minúsculas'.
+valor.length -> Me retorna em números quantas letras tem a string.
+
+12 -> Formas de formatar numbers
+valor.toFixed(quantidade) -> Me retorna um um valor com mais casas decimais.
+Ex: 1600.5 para 1600.50 -> veja na pratica: 1600.5.toFixed(2) me retorna 1600.50  
+
+13 -> Como usar o .replace
+O .replace troca um valor por outro valor.
+Ex: 1600.5.toFixed(2).replace('.', ',') me retorna 1600,50 -> nesse caso trocou o . por ,
+
+ISSO VALE PARA TROCAR QUALQUER VALOR STRING OU NUMERO!
+
+14 -> Como converter real para dolar ou euro ou qualquer currency de moeda
+valor.toLocaleString('pt-br' , {style: 'currency', currency: 'BRL'}); no caso; ele localiza a string da currency USD e faz a troca pela currency BRL: R$ . 
+Nesse caso me retornaria: ' 'R$valor' '
+
+15 -> Como dividir uma string
+valor.split(''); Nesse caso vai me retornar a string separada por '';
+Ex: khallyl.split(''); me retorna K', 'H', 'A', 'L', 'L', 'Y', 'L'
+
+Ex: 
+A - 
+B - 
+C - 
+D -
+E -
+F - 
+G - 
+H - 
+
+16 -> 
+Resposta:  
+
+17 -> 
+Resposta: 
+
+18 -> 
+A - 
+B - 
+C - 
+
+19 -> 
+20 -> 
+Resposta: 
+
+21 -> 
+Resposta: 
