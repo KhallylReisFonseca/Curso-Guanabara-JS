@@ -15,10 +15,10 @@ O curso é composto por 6 modulos, totalizando 40 horas de conteudo.
 
 ## Módulo B: Comandos Basicos do JavaScript
 
-- [ ] B.1 - Variáveis e Tipos Primitivos
-- [ ] B.2 - Tratamento de dados
-- [ ] B.3 - Operadores (Parte 1)
-- [ ] B.4 - Operadores (Parte 2)
+- [x] B.1 - Variáveis e Tipos Primitivos
+- [x] B.2 - Tratamento de dados
+- [x] B.3 - Operadores (Parte 1)
+- [x] B.4 - Operadores (Parte 2)
 
 ## Módulo C: Entendendo o DOM
 
