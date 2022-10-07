@@ -1,0 +1,85 @@
+1 - Qual a diferença entre um cliente e um servidor para Internet?
+Resposta: A diferença é a seguinte; cliente é o lado do client, ou seja, quem está na frente da tela, seja ela de um computador ou um smartphone ou um tablet, já o servidor é onde está armazenado as informações de uma pagina da Internet, é quem fornece tudo que é necessario para carregar uma pagina da Internet.
+
+2 - Para que serve HTML, CSS e JavaScript?
+Resposta: HTML é uma forma de construir o esqueleto de uma pagina da Web, manipular e marcar textos, já o CSS é responsavel por adicionar estilo a esta pagina, deixa a pagina mais bonita, colorida; já o JavaScript é responsavel por adicionar interações e dinamismo para esta pagina, ele da musculos ao HTML e CSS.
+
+3 -> Exemplo de empresas que usam JavaScript.
+A - Google
+B - Youtube
+C - Linkedin
+D - NETFLIX
+E - Facebook
+
+4 -> Quando o JavaScript foi criado?
+Resposta: JavaScript foi criado no ano de 1995.
+
+5 -> Quem criou o JavaScript?
+Resposta: JavaScript foi criado por Brendan Eich que trabalhava na empresa Netscape.
+
+6 -> Quem padronizou o JavaScript?
+Resposta: JavaScript foi padronizado pela ECMA.
+
+7 -> Quando JavaScript foi padronizado?
+Resposta: Foi padronizado no ano de 1997.
+
+8 -> Quando surgiu o Google Chrome?
+Resposta: Google Chrome sugiu no ano de 2008.
+
+9 -> O que é o V8? 
+Resposta: É o motor interno do Google Chrome que roda o JavaScript.
+
+10 -> Como surgiu o Node.js e o que ele faz?
+Resposta: Node.js surgiu do codigo aberto do V8 e da necessidade de rodar o JavaScript apenas dentro da maquina, sem a necessidade de navegadores. É um programa que roda o JavaScrip dentro do sistema operacional sem a necessidade de navegadores.
+
+11 -> Qual o navegador mais utilizado no mundo?
+Resposta: O navegador mais utilizado no mundo é o Google Chrome.
+
+12 -> O que é o ECMAScript?
+Resposta: O ECMAScript é a versão padronizada do JavaScrip.
+
+13 -> Qual é a ultima versão do ECMAScript?
+Resposta: A ultima versão do ECMAScript é o ES2018.
+
+14 -> O que são Frameworks?
+Resposta: Frameworks são Bibliotecas que são criadas a partir do ECMAScript.
+
+15 -> Exemplos de Bibliotecas/Frameworks de ECMAScript.
+A - jQuery
+B - Angular
+C - React
+D - Vue
+E - Electron
+F - Ionic
+G - Phaser
+H - melonJs
+
+16 -> As linguagens Java e JavaScript são iguais ou tem alguma relação?
+Resposta: Não são iguais, são totalmente diferentes. A unica relação entre as duas é a epoca de criação e a palavra Java.
+
+17 -> O que o ECMAScript tem a ver com o JavaScript?
+Resposta: O ECMAScript é a versão padronizada do JavaScrip.
+
+18 -> Exemplos de programas criado com JavaScript.
+A - Whatsapp Desktop
+B - Chat do Discord
+C - Slack
+
+19 -> Referencia e guias;
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript
+https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
+https://www.w3schools.com/js/
+
+20 -> 
+Resposta: 
+
+21 -> 
+Resposta: 
+
+
+
+
+
+
+
