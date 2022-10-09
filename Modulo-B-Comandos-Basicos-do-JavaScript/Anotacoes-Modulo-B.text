@@ -78,30 +78,82 @@ Nesse caso me retornaria: ' 'R$valor' '
 valor.split(''); Nesse caso vai me retornar a string separada por '';
 Ex: khallyl.split(''); me retorna K', 'H', 'A', 'L', 'L', 'Y', 'L'
 
+16 -> Operadores do JavaScript
+
+A - Aritméticos
+
+-> + : Soma
+-> - : Subtração
+-> * : Multiplicação
+-> / : Divisão
+-> % : Modulo (resto da divisão)
+-> ** : Exponenciação 
+
+B - Atribuição simples
+
+-> Sinal de = significa RECEBE O VALOR APOS O =
+
+C - Auto Atribuição
+
+-> É quando se usa a variavel para calcular o novo valor e reatribui automaticamente o novo valor; Ex: let n = 2, n sera 2, se eu fizer n * 2 vai calcular 2 que é o valor de n e multiplicar por 2, ao final sera atribuido automaticamente a n o resultado da operação. Ficaria n * 2 = 4
+
+
+D - Relácionais (O RESULTADO DESSES OPERADORES SEMPRE SERA TRUE OU FALSE (BOOLEAN))
+Obs: CASO TENHA OPERADORES RELACIONAIS E ARITMETICOS NA MESMA OPERAÇÃO, PRIMEIRO SE CALCULA OS OPERADORES ARITMETICOS E DEPOIS OS OPERADORES RELACIONAIS
+
+
+> SIGNIFICA MAIOR
+< SIGNIFICA MENOR
+>= SIGNIFICA MAIOR OU IGUAL
+<= SIGNIFICA MENOR OU IGUAL
+== SIGNIFICA IGUAL EM VALOR
+=== SIGNIFICA IGUAL EM VALOR E IGUAL EM TIPO PRIMITIVO
+!= SIGNIFICA DIFERENTE EM VALOR
+!== SIGNIFICA DIFERENTE EM TIPO
+
+E - Lógicos 
+! SIGNIFICA Negação
+&& SIGNIFICA E / Conjunção.    Ex: valorA && valorB    Lendo de forma literal fica valorA E valorB.
+|| SIGNIFICA OU / Disjunção.   Ex: valorA || valorB    Lendo de forma literal fica valorA OU valorB
+
+F - Ternário
+valor ? 'resultado1' : 'resultado2'
+Funciona parecido a um IF ELSE 
 Ex: 
-A - 
-B - 
-C - 
-D -
-E -
-F - 
-G - 
-H - 
+let valor1 = 10;
+let resultado = valor1 == 10 ? 'Sim' : 'Não';
 
-16 -> 
-Resposta:  
 
-17 -> 
-Resposta: 
+16 -> Ordem de precedência no JavaScript
+1 -> ()
+2 -> **
+3 -> * ou / ou % NÃO IMPORTA QUAL VEM PRIMEIRO, SE ESTIVER MAIS DE ALGUM DESSES VAI SER CALCULADO DA ESQUERDA PRA DIREITA
+4 -> + -
 
-18 -> 
-A - 
-B - 
-C - 
 
-19 -> 
-20 -> 
-Resposta: 
+17 -> Caso voce queira que + ou - calcule primeiro;
+Resposta: Usar ( ). Ex: (10+10) / 2  vai me retornar 10 
 
-21 -> 
-Resposta: 
+18 -> Para descobrir se um numero é PAR
+Usar a sintaxe ' numero % 2 === 0 ' retornara true, significando que o numero é PAR
+
+
+19 -> Para descobrir se um numero é IMPAR
+Usar a sintaxe ' numero % 2 !== 0 ' retornara FALSE, significando que o numero é IMPAR
+
+20 -> Para somar +1 ou -1 no valor
+Usar ++valor para somar que ira retornar valor+1
+Usar --valor para subtrair que ira retornar valor-1
+
+21 -> Caso tenha operadores relacionais, aritmeticos e logicos na mesma operação
+Primeiro se calcula os operadores aritmeticos
+Segundo se calcula os operadores relacionais
+Terceiro se calcula os operadores logicos
+
+22 -> Caso tenha os 3 operadores logicos na mesma expressão;
+Se calcula primeiro o ! depois o && e por final o ||
+
+23 ->
+
+24 ->
+
