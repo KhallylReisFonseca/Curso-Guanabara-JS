@@ -1,0 +1,68 @@
+1 -> O que é DOM?
+Resposta: Significa DOCUMENT OBJECT MODEL
+
+2 -> O que é DOM?
+Resposta: Ele funciona como se fosse uma ARVORE HIERARQUICA da localização do esqueleto do HTML.
+
+3 -> Formas de acessar o DOM
+A > Por tag
+Ex: document.getElementsByTagName()[0]
+B > Por id
+Ex: document.getElementById()
+C > Por name
+Ex: document.getElementsByName()[0]
+E > Por class
+Ex: document.getElementsByClass()[0]
+F > Por seletor
+Ex: document.querySelector()
+G > Por todos seletores
+Ex: document.querySelectorAll()
+
+4 -> Exemplos de eventos MOUSE
+A - mouseenter
+B - mousemove
+C - mousedown
+D - mouseup
+E - click
+G - mouseout
+
+5 -> O que é uma função no JavaScript
+Resposta: É um bloco de codigo que recebe alguns parametros e executa o codigo que contem dentro do bloco
+Geralmente declarada por;
+function nome(parametros, parametros){
+    bloco de codigo a ser executado quando chamar a função
+}
+
+
+6 -> Como adicionar eventListeners pelo JS
+OBS: PRIMEIRO ACESSA O CAMINHO, DEPOIS ADICIONA O EVENTLISTENER, no final cria a função com o nome correto para executar o bloco de codig. 
+SEGUE EXEMPLOS ABAIXO
+
+let acesso = window.document.getElementById('area');   // acessei o local, aqui no caso é uma div com id area
+
+acesso.addEventListener('click', clicar);   // aqui adicionei um evento de click e chamei a função do click
+acesso.addEventListener('mouseenter', entrar); // aqui adicionei um evento de mouseenter e chamei a função entrar
+acesso.addEventListener('mouseout', sair); // aqui adicionei um evento de mouseout e chamei a função sair
+
+// Aqui eu declaro as funções com os nomes corretos, que chamei acima
+function clicar(){
+    a.innerText = 'Clicou!';    // aqui eu chamo a variavel do acesso, e faço alteração do innerText
+    a.style.background = 'red'; // aqui eu chamo a variavel do acesso, e faço alteração do background
+};
+
+function entrar(){
+    a.innerText = 'Entrou!'; // aqui eu chamo a variavel do acesso, e faço alteração do innerText
+    a.style.backgroundColor = 'yellow' // aqui eu chamo a variavel do acesso, e faço alteração do backgroundColor
+};
+
+function sair(){
+    a.innerText = 'Saiu!';  // aqui eu chamo a variavel do acesso, e faço alteração do innerText
+    a.style.background = 'green';  // aqui eu chamo a variavel do acesso, e faço alteração do background
+};
+
+
+
+Resposta: 
+
+7 -> 
+Resposta: 
