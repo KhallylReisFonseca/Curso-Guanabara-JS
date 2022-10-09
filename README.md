@@ -2,7 +2,7 @@
 
 # Curso-Guanabara-JS
 
-Aqui vai conter todos o __[meu](https://www.linkedin.com/in/khallyl-reis-fonseca/)__ aprendizado e consequentemente os exercicios durante minha tragetória na [Curso em Video](https://www.cursoemvideo.com/). :rocket:
+Aqui vai conter todo o __[meu](https://www.linkedin.com/in/khallyl-reis-fonseca/)__ aprendizado e consequentemente os exercicios durante minha tragetória na [Curso em Video](https://www.cursoemvideo.com/). :rocket:
 
 O curso é composto por 6 modulos, totalizando 40 horas de conteudo.
 
