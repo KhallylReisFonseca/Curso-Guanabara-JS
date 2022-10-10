@@ -27,4 +27,5 @@ if (checagem ou condição){
 let agora = new Date()
 let horario = agora.getHours()
 
-
+4 -> Como adicionar copyright?
+Usar:      &copy; 

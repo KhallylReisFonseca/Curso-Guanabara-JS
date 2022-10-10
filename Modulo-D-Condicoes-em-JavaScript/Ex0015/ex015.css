@@ -1,0 +1,37 @@
+body{
+    background: rgb(99, 99, 153);
+font: normal 15pt Arial;
+}
+
+header{
+color: white;
+text-align: center;
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.575);
+}
+
+#section1{
+background: #8f7878;
+border-radius: 10px;
+padding: 15px;
+width: 500px;
+margin: auto;
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.575);
+}
+
+footer{
+color: white;
+text-align: center;
+font-style: italic;
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.575);
+}
+
+#imagem{
+    border-radius: 50%;
+}
+#section1{
+
+}
+div{
+    text-align: center;
+    padding: 10px;
+}
