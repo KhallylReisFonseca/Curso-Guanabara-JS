@@ -1,0 +1,30 @@
+1 -> Condicionais no JavaScript
+As estruturas condicionais no JavaScript executam blocos de codigos definidos caso uma condição seja alcançada.
+Por exemplo; Quero que execute tal bloco de codigo se a minha variavel A(que tem o valor de 10) for maior ou igual a 10, logo o JavaScript fara a checagem da condição, caso retorne TRUE o bloco de codigo sera executado!
+Estrutura do IF ELSE
+
+
+if( aqui voce coloca o que sera checado ou condição ){
+    aqui dentro voce coloca o bloco de codigo a ser executado caso a checagem retorne verdadeiro
+}
+
+else if ( aqui voce coloca o que sera checado ou condição ){
+    aqui dentro voce coloca o bloco de codigo a ser executado caso a primeira seja false
+}
+else{
+    aqui dentro voce coloca o bloco de codigo a ser executado caso nenhuma das checagens acima seja verdadeira
+}
+
+2 -> Condicional SIMPLES
+É representada e executada com apenas uma checagem ou condição, composta apenas por um if
+Ex:
+
+if (checagem ou condição){
+    bloco do codigo a ser executado caso a checagem ou condição seja verdadeira
+}
+
+3 -> Como pegar a hora da maquina?
+let agora = new Date()
+let horario = agora.getHours()
+
+
