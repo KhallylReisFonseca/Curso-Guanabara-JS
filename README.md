@@ -22,17 +22,17 @@ O curso é composto por 6 modulos, totalizando 40 horas de conteudo.
 
 ## Módulo C: Entendendo o DOM
 
-- [ ] C.1 - Introdução ao DOM
-- [ ] C.2 - Eventos DOM
+- [x] C.1 - Introdução ao DOM
+- [x] C.2 - Eventos DOM
 
 
 ## Módulo D: Condicoes em JavaScript
 
-- [ ] D.1 - Condições (Parte 1)
-- [ ] D.2 - Condições (Parte 2)
-- [ ] D.3 - Exercícios JavaScript (Parte 1)
-- [ ] D.3 - Exercícios JavaScript (Parte 2)
-- [ ] D.3 - Exercícios JavaScript (Parte 3)
+- [x] D.1 - Condições (Parte 1)
+- [x] D.2 - Condições (Parte 2)
+- [x] D.3 - Exercícios JavaScript (Parte 1)
+- [x] D.3 - Exercícios JavaScript (Parte 2)
+- [x] D.3 - Exercícios JavaScript (Parte 3)
 
 ## Módulo E: Repeticoes em JavaScript
 
