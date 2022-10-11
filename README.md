@@ -36,11 +36,11 @@ O curso é composto por 6 modulos, totalizando 40 horas de conteudo.
 
 ## Módulo E: Repeticoes em JavaScript
 
-- [ ] E.1 - Repetições (Parte 1)
-- [ ] E.2 - Repetições (Parte 2)
-- [ ] E.3 - Exercícios JavaScript (Parte 1)
-- [ ] E.3 - Exercícios JavaScript (Parte 2)
-- [ ] E.3 - Exercícios JavaScript (Parte 3)
+- [x] E.1 - Repetições (Parte 1)
+- [x] E.2 - Repetições (Parte 2)
+- [x] E.3 - Exercícios JavaScript (Parte 1)
+- [x] E.3 - Exercícios JavaScript (Parte 2)
+- [x] E.3 - Exercícios JavaScript (Parte 3)
 
 ## Módulo F: Avançando os estudos em JavaScript
 
