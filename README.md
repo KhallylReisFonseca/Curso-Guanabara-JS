@@ -44,11 +44,11 @@ O curso é composto por 6 modulos, totalizando 40 horas de conteudo.
 
 ## Módulo F: Avançando os estudos em JavaScript
 
-- [ ] F.1 - Variáveis Compostas
-- [ ] F.2 - Funções
-- [ ] F.3 - Exercícios JavaScript (Parte 1)
-- [ ] F.3 - Exercícios JavaScript (Parte 2)
-- [ ] F.4 - Próximos Passos
+- [x] F.1 - Variáveis Compostas
+- [x] F.2 - Funções
+- [x] F.3 - Exercícios JavaScript (Parte 1)
+- [x] F.3 - Exercícios JavaScript (Parte 2)
+- [x] F.4 - Próximos Passos
 
 
 
